@@ -1,0 +1,280 @@
+"""
+********************************************************************
+* Te doy la bienvenida al juego del ahorcado de codigopiton.com :) *
+********************************************************************
+   
+~~~~~~~~~|~
+         |
+         J    
+~~~~~~~~~~~   
+
+_ _ _ _ _ _ _ 
+
+Introduce una letra (a-z): 3
+Error, la letra tiene que estar entre a y z.
+Introduce una letra (a-z): a
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+         J    
+~~~~~~~~~~~   
+
+_ _ _ _ a _ _ 
+
+Introduce una letra (a-z): a
+Letra repetida, prueba con otra.
+Introduce una letra (a-z): queso
+Error, la letra tiene que estar entre a y z.
+Introduce una letra (a-z): s
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+         J    
+~~~~~~~~~~~   
+
+_ _ s _ a _ _ 
+
+Introduce una letra (a-z): q
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ >       J    
+~~~~~~~~~~~   
+
+_ _ s _ a _ _ 
+
+Letras erróneas: q
+
+Introduce una letra (a-z): j
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><      J    
+~~~~~~~~~~~   
+
+_ _ s _ a _ _ 
+
+Letras erróneas: q j
+
+Introduce una letra (a-z): o
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><      J    
+~~~~~~~~~~~   
+
+_ _ s _ a _ o 
+
+Letras erróneas: q j
+
+Introduce una letra (a-z): d
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><      J    
+~~~~~~~~~~~   
+
+_ _ s _ a d o 
+
+Letras erróneas: q j
+
+Introduce una letra (a-z): e
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><      J    
+~~~~~~~~~~~   
+
+_ e s _ a d o 
+
+Letras erróneas: q j
+
+Introduce una letra (a-z): r
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><(     J    
+~~~~~~~~~~~   
+
+_ e s _ a d o 
+
+Letras erróneas: q j r
+
+Introduce una letra (a-z): t
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><((    J    
+~~~~~~~~~~~   
+
+_ e s _ a d o 
+
+Letras erróneas: q j r t
+
+Introduce una letra (a-z): p
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><((    J    
+~~~~~~~~~~~   
+
+p e s _ a d o 
+
+Letras erróneas: q j r t
+
+Introduce una letra (a-z): c
+¡Genial! Has acertado una letra.
+¡Enhorabuena, lo has logrado!
+p e s c a d o 
+
+Letras erróneas: q j r t
+
+Deseas jugar otra vez (introduce s para sí o cualquier otra cosa para no): s
+   
+~~~~~~~~~|~
+         |
+         J    
+~~~~~~~~~~~   
+
+_ _ _ _ _ _ _ _ 
+
+Introduce una letra (a-z): a
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ >       J    
+~~~~~~~~~~~   
+
+_ _ _ _ _ _ _ _ 
+
+Letras erróneas: a
+
+Introduce una letra (a-z): b
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><      J    
+~~~~~~~~~~~   
+
+_ _ _ _ _ _ _ _ 
+
+Letras erróneas: a b
+
+Introduce una letra (a-z): o
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><      J    
+~~~~~~~~~~~   
+
+_ o _ _ _ o _ _ 
+
+Letras erróneas: a b
+
+Introduce una letra (a-z): j
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><(     J    
+~~~~~~~~~~~   
+
+_ o _ _ _ o _ _ 
+
+Letras erróneas: a b j
+
+Introduce una letra (a-z): i
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><(     J    
+~~~~~~~~~~~   
+
+_ o _ i _ o _ _ 
+
+Letras erróneas: a b j
+
+Introduce una letra (a-z): u
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><((    J    
+~~~~~~~~~~~   
+
+_ o _ i _ o _ _ 
+
+Letras erróneas: a b j u
+
+Introduce una letra (a-z): r
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><(((   J    
+~~~~~~~~~~~   
+
+_ o _ i _ o _ _ 
+
+Letras erróneas: a b j u r
+
+Introduce una letra (a-z): m
+¡Genial! Has acertado una letra.
+   
+~~~~~~~~~|~
+         |
+ ><(((   J    
+~~~~~~~~~~~   
+
+m o _ i _ o _ _ 
+
+Letras erróneas: a b j u r
+
+Introduce una letra (a-z): v
+¡Oh! Has fallado.
+   
+~~~~~~~~~|~
+         |
+ ><(((º  J    
+~~~~~~~~~~~   
+
+m o _ i _ o _ _ 
+
+Letras erróneas: a b j u r v
+
+Introduce una letra (a-z): c
+¡Oh! Has fallado.
+¡Lo siento! ¡Has perdido! La palabra a adivinar era monigote.
+   
+~~~~~~~~~|~
+         |
+ ><(((º> J    
+~~~~~~~~~~~   
+
+m o _ i _ o _ _ 
+
+Letras erróneas: a b j u r v c
+
+Deseas jugar otra vez (introduce s para sí o cualquier otra cosa para no): n
+********************************************************************
+* Gracias por jugar al ahorcado de codigopiton.com. ¡Hasta pronto! *
+********************************************************************
+"""
+ 
+"""
+https://www.codigopiton.com/como-hacer-el-juego-del-ahorcado-en-python/
+"""
